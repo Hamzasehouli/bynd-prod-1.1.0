@@ -1,0 +1,37 @@
+{
+  "files": {
+    "main.css": "/static/css/main.f4c51ad7.chunk.css",
+    "main.js": "/static/js/main.e10786ed.chunk.js",
+    "main.js.map": "/static/js/main.e10786ed.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.5dfe7c6d.js",
+    "runtime-main.js.map": "/static/js/runtime-main.5dfe7c6d.js.map",
+    "static/js/2.98c01b18.chunk.js": "/static/js/2.98c01b18.chunk.js",
+    "static/js/2.98c01b18.chunk.js.map": "/static/js/2.98c01b18.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.f4c51ad7.chunk.css.map": "/static/css/main.f4c51ad7.chunk.css.map",
+    "static/js/2.98c01b18.chunk.js.LICENSE.txt": "/static/js/2.98c01b18.chunk.js.LICENSE.txt",
+    "static/media/adidas-black-white.jpg": "/static/media/adidas-black-white.7dc37cdc.jpg",
+    "static/media/adidas-black.jpg": "/static/media/adidas-black.e4b24bfd.jpg",
+    "static/media/adidas-white.jpg": "/static/media/adidas-white.8f1acd6b.jpg",
+    "static/media/dominik-martin-b2-fBVrfx0o-unsplash.jpg": "/static/media/dominik-martin-b2-fBVrfx0o-unsplash.f4e901b8.jpg",
+    "static/media/italian.jpg": "/static/media/italian.cf72cf33.jpg",
+    "static/media/nike-black.jpg": "/static/media/nike-black.6ddb0f0f.jpg",
+    "static/media/nike-green.jpg": "/static/media/nike-green.0f58871e.jpg",
+    "static/media/nike-orange.jpg": "/static/media/nike-orange.afbbfbbf.jpg",
+    "static/media/nike-red.jpg": "/static/media/nike-red.e03cfa6f.jpg",
+    "static/media/nike-white-black.jpg": "/static/media/nike-white-black.ef0ced36.jpg",
+    "static/media/parall1.jpg": "/static/media/parall1.0a24353f.jpg",
+    "static/media/sprite.a640c8bd.svg": "/static/media/sprite.a640c8bd.svg",
+    "static/media/tennis-brown.jpg": "/static/media/tennis-brown.60fa5db3.jpg",
+    "static/media/tennis.jpg": "/static/media/tennis.a5614209.jpg",
+    "static/media/timbarland.jpg": "/static/media/timbarland.9b6cfbfe.jpg",
+    "static/media/wandern.jpg": "/static/media/wandern.a7cc44ac.jpg",
+    "static/media/white.jpg": "/static/media/white.f494d9c9.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5dfe7c6d.js",
+    "static/js/2.98c01b18.chunk.js",
+    "static/css/main.f4c51ad7.chunk.css",
+    "static/js/main.e10786ed.chunk.js"
+  ]
+}
